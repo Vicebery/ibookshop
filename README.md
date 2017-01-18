@@ -1,1 +1,1 @@
-# ibookshop
+基于SSH的网上书城，数据库用的mysql.
